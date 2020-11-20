@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm newbie to everything.
+- I'm a newbie to everything.
 - 除了抱娃啥都不会的菜鸡
 
 <!--
