@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm newbie to everything.
+除了抱娃啥都不会的菜鸡
+
 <!--
 **irvingzhang0512/irvingzhang0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
