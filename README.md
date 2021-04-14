@@ -3,6 +3,9 @@
 - I'm a newbie to everything.
 - 除了抱娃啥都不会的菜鸡
 
+[![irvingzhang0512's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvingzhang0512)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **irvingzhang0512/irvingzhang0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
